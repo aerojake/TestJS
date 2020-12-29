@@ -1,3 +1,5 @@
+//hello there
+
 const FG_BLACK = "\x1b[30m";
 const FG_RED = "\x1b[31m";
 const FG_GREEN = "\x1b[32m";
